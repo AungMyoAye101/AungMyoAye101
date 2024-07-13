@@ -21,12 +21,12 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aungmyoaye101&show_icons=true&locale=en&layout=compact" alt="aungmyoaye101" /></p>
-</br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rayy-007&theme=dark&background=30,2c3e50,512DA8)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aungmyoaye101&show_icons=true&locale=en" alt="aungmyoaye101" /></p>
+![Min Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayy-007&show=reviews,prs_merged&show_icons=true&include_all_commits=true&bg_color=30,2c3e50,512DA8&theme=highcontrast)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aungmyoaye101&" alt="aungmyoaye101" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayy-007&layout=compact&theme=vision-friendly-dark&bg_color=30,2c3e50,512DA8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="left">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>

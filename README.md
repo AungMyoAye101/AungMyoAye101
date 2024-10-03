@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="200"/>
 
   <h1>
-    Hey there
+    Hi !
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     I am Aung Myo Aye
   </h1>
@@ -62,7 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 My Status: 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AungMyoAye101&theme=dark&background=30,2c3e50,512DA8)](https://git.io/streak-stats)
 
-![Min Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungMyoAye101&show=reviews,prs_merged&show_icons=true&include_all_commits=true&bg_color=30,2c3e50,512DA8&theme=highcontrast)
+![Aung Myo Aye's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungMyoAye101&show=reviews,prs_merged&show_icons=true&include_all_commits=true&bg_color=30,2c3e50,512DA8&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AungMyoAye101&layout=compact&theme=vision-friendly-dark&bg_color=30,2c3e50,512DA8)](https://github.com/anuraghazra/github-readme-stats)
 

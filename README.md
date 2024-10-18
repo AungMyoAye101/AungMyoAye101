@@ -14,10 +14,10 @@
     <a href="">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="">
+    <a href="https://www.facebook.com/profile.php?id=61556195843942">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="">
+    <a href="https://github.com/AungMyoAye101">
       <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
     </a>
   </div>
@@ -40,7 +40,7 @@ I am a Full Stack Developer, UI/UX Designer from Myanmar.
 - :seedling: I’m currently learning Next.js, Tailwind, Typescript, Git and GitHub.
 
 - 📫 How to reach me: aungmyoaye101@gmail.com, 
-- 👨‍🚒 My Portfolio Site https://portfolio-khant.netlify.app/
+- 👨‍🚒 My Portfolio Site https://aung-myo-aye-portfolio.vercel.app/
 ---
 
 ### 🛠️ Languages and Tools :

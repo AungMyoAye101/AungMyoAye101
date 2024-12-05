@@ -44,9 +44,9 @@ I am a Full Stack Developer, UI/UX Designer from Myanmar.
 ---
 
 ### 🛠️ Languages and Tools :
-| Fronend | Backend | UI/UX | Tools |
+| Fronend | Backend | UI/UX | Database |
 | ------- | ------- | ----- | ----- |
-| [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,js,html,css,sass,bootstrap,jquery&theme=dark)](https://skillicons.dev) | [![My Skills](https://skills.thijs.gg/icons?i=nextjs,spring,java,mysql,mongodb&theme=dark)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=figma,svg&theme=dark)](https://skills.thijs.gg) | [![My Skills](https://skills.thijs.gg/icons?i=vscode,eclipse,postman,wordpress,git,github&theme=dark)](https://skills.thijs.gg)|
+| [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,ts,tailwind,&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,php,python,java,&theme=dark)](https://skills.thijs.gg) | [![My Skills](https://skillicons.dev/icons?i=figma,wordpress&theme=dark)](https://skills.thijs.gg) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=dark)](https://skills.thijs.gg)|
 
 
 

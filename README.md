@@ -34,9 +34,6 @@
 I am a Full Stack Developer, UI/UX Designer from Myanmar.
 
 
-- 🐱‍🏍 I'm on a journey to transform ideas into digital experiences.
-- :telescope: I bring ideas to life through clean and user-friendly interfaces. 
-
 - :seedling: I’m currently learning Node Js, Php, laravel.
 
 - 📫 How to reach me: aungmyoaye101@gmail.com, 

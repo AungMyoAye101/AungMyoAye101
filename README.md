@@ -34,7 +34,7 @@
 I am a Full Stack Developer, UI/UX Designer from Myanmar.
 
 
-- :seedling: I’m currently learning Node Js, Php, laravel.
+- :seedling: I’m currently learning Mern stack,Php and Python.
 
 - 📫 How to reach me: aungmyoaye101@gmail.com, 
 - 👨‍🚒 My Portfolio Site https://aung-myo-aye-portfolio.vercel.app/
